@@ -63,19 +63,27 @@
 
 ---
 
-### `~/stats`
+### `~/now`
 
 <div align="center">
 
-<img src="<https://github-readme-stats.vercel.app/api?username=nks648&show_icons=true&theme=dark&bg_color=1d1d1f&border_color=3a3a3c&title_color=f5f5f7&text_color=a1a1a6&icon_color=f5f5f7&hide_border=false&count_private=true>" height="165"/>
-&nbsp;&nbsp;
-<img src="<https://github-readme-stats.vercel.app/api/top-langs/?username=nks648&layout=compact&theme=dark&bg_color=1d1d1f&border_color=3a3a3c&title_color=f5f5f7&text_color=a1a1a6&hide_border=false>" height="165"/>
+| | |
+|:---|:---|
+| 🔭 Building | Automated job tracking pipeline for Munich PM roles |
+| 🌍 Location | Munich, Germany |
+| 💬 Ask me about | Program management, process automation, GitHub Actions |
+| 🎯 2025 Goal | Ship tools that solve real problems |
+| ⚡ Fun fact | I automated my job search before landing a job |
 
 </div>
 
+---
+
+### `~/profile-views`
+
 <div align="center">
 
-<img src="<https://streak-stats.demolab.com?user=nks648&theme=dark&background=1d1d1f&border=3a3a3c&ring=f5f5f7&fire=f5f5f7&currStreakLabel=f5f5f7&sideLabels=a1a1a6&dates=a1a1a6&currStreakNum=f5f5f7&sideNums=f5f5f7>" height="165"/>
+![Profile Views](<https://komarev.com/ghpvc/?username=nks648&style=for-the-badge&color=1d1d1f&label=PROFILE+VIEWS>)
 
 </div>
 
