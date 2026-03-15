@@ -15,7 +15,7 @@
 
 ---
 
-### `~/about`
+### `~/About`
 
 &nbsp;&nbsp;&nbsp;Program Manager by day — I orchestrate cross-functional teams, manage technical roadmaps,
 &nbsp;&nbsp;&nbsp;and drive delivery on time. By night, I build the tools I wish someone else had built.
@@ -24,7 +24,7 @@
 
 ---
 
-### `~/stack`
+### `~/Stack`
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-### `~/projects`
+### `~/Projects`
 
 <div align="center">
 
